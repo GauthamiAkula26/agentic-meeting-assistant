@@ -1,0 +1,38 @@
+Meeting: Product Launch Readiness Review
+Date: 2026-04-05
+
+Anita: Thanks everyone for joining. Today we need to review launch readiness for the customer insights dashboard.
+
+Ravi: Engineering status is mostly green. The API integration is complete and the dashboard loads correctly in staging.
+
+Decision: We will move forward with the soft launch next Tuesday for internal users only.
+
+Maya: Design has completed the final UI updates. We still need one last accessibility review.
+
+Action Item: Maya will send the final accessibility checklist by Thursday.
+
+Ravi: There is one blocker. The analytics export feature is timing out for very large files.
+
+Blocker: Export performance for files above 100MB is still unstable.
+
+Anita: Agreed to keep export in beta mode during the soft launch instead of delaying the release.
+
+Decision: Export functionality will be labeled beta during the first release.
+
+Karan: Support team needs a short enablement guide before launch.
+
+Action Item: Karan will draft the support enablement guide by Friday.
+
+Maya: There is also a dependency on legal approval for updated privacy text.
+
+Risk: Privacy text approval from legal may slip by two days.
+
+Anita: If legal is delayed, we will publish with the current approved text and patch the update later if needed.
+
+Decision: If legal review is delayed, use the current approved privacy language for launch.
+
+Ravi: We also need a production monitoring dashboard.
+
+Next Step: Ravi will configure production monitoring alerts before Monday.
+
+Anita: Great. Let us track these items daily until launch.
