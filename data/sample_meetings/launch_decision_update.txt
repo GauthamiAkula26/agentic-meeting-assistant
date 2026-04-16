@@ -1,0 +1,20 @@
+Meeting: Launch Decision Update
+Date: 2026-04-08
+
+Anita: This is a short checkpoint meeting to revisit launch timing and readiness.
+
+Ravi: Monitoring alerts are configured. Export beta is still not stable enough for a wider audience.
+
+Decision: We will keep the soft launch on Tuesday but delay external rollout by one additional week.
+
+Maya: Accessibility checklist is complete and signed off.
+
+Action Item: Ravi will finalize the rollback checklist by Friday.
+
+Karan: Support enablement guide is ready.
+
+Decision: Export beta will remain limited to internal users until performance improves.
+
+Risk: If export error rates remain above target, customer trust may be impacted.
+
+Anita: Agreed to prioritize stability over feature breadth for this release.
