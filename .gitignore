@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.streamlit/secrets.toml
+storage/meetings_db.json
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
