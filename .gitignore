@@ -4,7 +4,6 @@ __pycache__/
 venv/
 env/
 .streamlit/secrets.toml
-storage/meetings_db.json
 .vscode/
 .idea/
 .DS_Store
